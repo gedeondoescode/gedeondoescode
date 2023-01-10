@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available here: [https://github.com/gedeondoescode?tab=repositories](https://github.com/gedeondoescode?tab=repositories)
 
-- 📫 How to reach me **gedeonsainrival1@gmail.com**
+- 📫 How to reach me **mailto:hello@gedeondoescode.com**
 
 - ⚡ Fun fact **I sometimes do photography in my free time: https://instagram.com/gedeonartiste**
 
