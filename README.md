@@ -3,7 +3,7 @@
 
 <p align="center" padding="10px"> <img src="https://komarev.com/ghpvc/?username=gedeondoescode&label=Profile%20views&color=0e75b6&style=flat" alt="gedeondoescode" /> </p>
 
-- 🔭 I’m currently working with [School Simplified](https://www.schoolsimplified.org/)
+- 🔭 I’m currently working with [Wevise](https://www.wevise.org/)
 
 - 🌱 I’m currently learning **Javascript and the React Framework**
 
