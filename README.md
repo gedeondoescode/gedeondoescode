@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gedeon</h1>
-<h3 align="center">A passionate frontend developer from South Florida</h3>
+<h3 align="center">A passionate software developer from South Florida</h3>
 
 <p align="center" padding="10px"> <img src="https://komarev.com/ghpvc/?username=gedeondoescode&label=Profile%20views&color=0e75b6&style=flat" alt="gedeondoescode" /> </p>
 
-- 🔭 I’m currently working with [Wevise](https://www.wevise.org/)
+- 🔭 I’m currently working with [Wevise](https://www.wevise.org/) and [Aftermath Labs](https://buildpipeline.ai)
 
-- 🌱 I’m currently learning **Javascript and the React Framework**
+- 🌱 I’m currently learning **Rust & Typescript**
 
 - 👨‍💻 All of my projects are available here: [https://github.com/gedeondoescode?tab=repositories](https://github.com/gedeondoescode?tab=repositories)
 
 - 📫 How to reach me **[hello@gedeondoescode.com](mailto:hello@gedeondoescode.com)**
-
-- ⚡ Fun fact **I sometimes do photography in my free time: https://instagram.com/gedeonartiste**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
