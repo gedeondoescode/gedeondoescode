@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust & Typescript**
 
-- 👨‍💻 All of my projects are available here: [https://github.com/gedeondoescode?tab=repositories](https://github.com/gedeondoescode?tab=repositories)
+- 👨‍💻 All of my previous work experience are available here on my [website](https://gedeondoescode.com/work).
 
 - 📫 How to reach me **[hello@gedeondoescode.com](mailto:hello@gedeondoescode.com)**
 
