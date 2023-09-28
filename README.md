@@ -3,7 +3,7 @@
 
 <p align="center" padding="10px"> <img src="https://komarev.com/ghpvc/?username=gedeondoescode&label=Profile%20views&color=0e75b6&style=flat" alt="gedeondoescode" /> </p>
 
-- 🔭 I’m currently working with [Wevise](https://www.wevise.org/) and [Aftermath Labs](https://buildpipeline.ai)
+- 🔭 I’m currently working with [Wevise](https://www.wevise.org/), [Aftermath Labs](https://buildpipeline.ai), and (Commet)[https://commet.chat]
 
 - 🌱 I’m currently learning **Rust & Typescript**
 
