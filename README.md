@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working with [Commet](https://commet.chat)
 
+- 🕰️ Previously worked with [Wevise](https://wevise.org) and [School Simplified](https://schoolsimplified.org)
+
 - 🌱 I’m currently learning **Rust & Typescript**
 
 - 👨‍💻 All of my previous work experience are available here on my [website](https://gedeondoescode.com/work).
