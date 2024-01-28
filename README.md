@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with [Commet](https://commet.chat)
 
-- 🕰️ Previously worked with [Wevise](https://wevise.org) and [School Simplified](https://schoolsimplified.org)
+- 🕰️ Previously worked with [Wevise](https://wevise.org) and School Simplified.
 
 - 🌱 I’m currently learning **Rust, Typescript, and C**
 
