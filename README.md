@@ -7,7 +7,7 @@
 
 - 🕰️ Previously worked with [Wevise](https://wevise.org) and School Simplified.
 
-- 🌱 I’m currently learning **Rust, Typescript, and C**
+- 🌱 I’m currently learning **everything**
 
 - 👨‍💻 All of my previous work experience are available here on my [website](https://gedeondoescode.com/work).
 
